@@ -18,4 +18,4 @@ Ini adalah proyek UAS Pemrograman Mobile yang menggabungkan penggunaan API denga
 8. API yang saya gunakan adalah `https://www.themoviedb.org/movie`
 
 ## Contoh Penggunaan
-![imglogin](image/output.jpeg)
+![imglogin](image/output2.jpeg)
