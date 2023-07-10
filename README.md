@@ -1,6 +1,6 @@
 # Flutter API
 
-Ini adalah proyek UAS Pemrograman Mobile yang menggabungkan penggunaan API dengan Flutter untuk membuat aplikasi mobile. Dalam proyek ini, saya akan menggunakan Flutter untuk mengonsumsi dan menampilkan data dari API yang tersedia.
+Ini adalah proyek UAS Pemrograman Mobile  menggabungkan penggunaan API dengan Flutter untuk membuat aplikasi mobile. Dalam proyek ini, saya akan menggunakan Flutter untuk mengonsumsi dan menampilkan data dari API yang ada 
 
 ## Instalasi
 
